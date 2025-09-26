@@ -110,4 +110,4 @@ All endpoints are secured and require a valid JWT in the `Authorization: Bearer 
 
 ---
 
-Made with ❤️ by **[Your Name]** (Final Year Student)
+Made with ❤️ by **Somalika** 
