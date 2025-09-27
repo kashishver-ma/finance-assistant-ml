@@ -46,7 +46,7 @@ The system employs a **Layered Architecture** with a clear separation of concern
 3.  **Repository Layer:** Interfaces directly with MongoDB for data persistence and retrieval.
 
 **Database Schema:**
-The MongoDB schema is designed for performance and flexibility, utilizing **embedded documents** (`Category`, `Authentication`, `Profile`) to minimize joins and optimize data retrieval for the end-user.
+The MongoDB schema is designed for performance and flexibility, utilizing **embedded documents** (`Users,Category,`Budgets`) to minimize joins and optimize data retrieval for the end-user.
 
 ---
 
