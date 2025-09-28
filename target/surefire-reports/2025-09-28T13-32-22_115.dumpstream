@@ -1,0 +1,5 @@
+# Created at 2025-09-28T13:32:22.621
+Boot Manifest-JAR contains absolute paths in classpath 'D:\finance-assistant\FinBrains\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
