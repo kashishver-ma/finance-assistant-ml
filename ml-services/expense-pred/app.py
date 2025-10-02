@@ -2,6 +2,7 @@ import joblib
 from fastapi import FastAPI
 
 
+
 model=joblib.load('category_model.joblib')
 vectorizer=joblib.load('vectorizer_d.joblib')
 

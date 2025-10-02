@@ -1,0 +1,201 @@
+expense_id, amount, merchant           , description                   , category
+EXP001    ,  45.50, Amazon             , wireless headphones purchase  , shopping
+EXP002    ,  12.99, Netflix            , monthly streaming subscription, entertainment
+EXP003    ,   8.75, Starbucks          , morning coffee and muffin     , food
+EXP004    ,  15.20, Uber               , ride to downtown office       , transport
+EXP005    ,  89.99, Best Buy           , smartphone screen protector   , technology
+EXP006    ,  23.45, McDonald's         , lunch combo meal              , food
+EXP007    ,   5.50, Metro Transit      , daily bus pass                , transport
+EXP008    ,  14.99, Spotify            , premium music subscription    , entertainment
+EXP009    ,  67.89, Target             , household cleaning supplies   , shopping
+EXP010    , 199.99, Apple Store        , iPad protective case          , technology
+EXP011    ,  18.30, Pizza Hut          , dinner delivery order         , food
+EXP012    ,  35.75, Shell              , gasoline fill up              , transport
+EXP013    ,   9.99, Disney Plus        , monthly video subscription    , entertainment
+EXP014    , 156.78, Walmart            , weekly grocery shopping       , shopping
+EXP015    ,  79.99, Microsoft          , office software license       , technology
+EXP016    ,   6.50, Dunkin Donuts      , coffee and donut              , food
+EXP017    ,  28.40, Lyft               , airport pickup ride           , transport
+EXP018    ,  11.99, Amazon Prime       , monthly membership fee        , entertainment
+EXP019    ,  34.56, Target             , personal care products        , shopping
+EXP020    , 149.99, Samsung            , wireless charging pad         , technology
+EXP021    ,  13.75, Chipotle           , burrito bowl lunch            , food
+EXP022    ,  42.30, Exxon              , car fuel purchase             , transport
+EXP023    ,   7.99, Hulu               , streaming service subscription, entertainment
+EXP024    ,  78.90, Costco             , bulk household items          , shopping
+EXP025    , 299.99, Dell               , laptop mouse and keyboard     , technology
+EXP026    ,   9.25, Subway             , sandwich and chips            , food
+EXP027    ,  16.80, Yellow Cab         , taxi to hotel                 , transport
+EXP028    ,  19.99, HBO Max            , premium streaming service     , entertainment
+EXP029    ,  45.67, CVS Pharmacy       , vitamins and supplements      , shopping
+EXP030    , 399.99, Best Buy           , wireless router upgrade       , technology
+EXP031    ,  14.50, KFC                , chicken bucket meal           , food
+EXP032    ,  31.25, Chevron            , gas station fill up           , transport
+EXP033    ,   8.99, Paramount Plus     , streaming subscription        , entertainment
+EXP034    ,  89.45, Home Depot         , garden tools purchase         , shopping
+EXP035    ,  49.99, Apple              , app store credit purchase     , technology
+EXP036    ,  11.80, Taco Bell          , late night snack order        , food
+EXP037    ,  22.15, Metro Rail         , weekly train pass             , transport
+EXP038    ,  12.99, YouTube Premium    , ad free subscription          , entertainment
+EXP039    , 167.34, Macy's             , clothing and accessories      , shopping
+EXP040    , 129.99, HP                 , printer ink cartridges        , technology
+EXP041    ,   7.95, Burger King        , breakfast sandwich meal       , food
+EXP042    ,  38.50, BP                 , premium gasoline              , transport
+EXP043    ,  15.99, Apple TV           , movie rental fee              , entertainment
+EXP044    ,  56.78, Walgreens          , pharmacy and toiletries       , shopping
+EXP045    , 179.99, Sony               , bluetooth speaker             , technology
+EXP046    ,  13.40, Panera Bread       , soup and salad combo          , food
+EXP047    ,  19.75, Uber               , ride to shopping mall         , transport
+EXP048    ,   6.99, Twitch             , gaming stream subscription    , entertainment
+EXP049    , 234.56, Nordstrom          , shoes and handbag             , shopping
+EXP050    ,  89.99, Microsoft          , gaming controller             , technology
+EXP051    ,  16.25, Dominos Pizza      , medium pizza delivery         , food
+EXP052    ,  29.80, Sunoco             , fuel and car wash             , transport
+EXP053    ,   9.99, Crunchyroll        , anime streaming service       , entertainment
+EXP054    ,  78.45, Bed Bath Beyond    , kitchen utensils              , shopping
+EXP055    , 199.99, Canon              , camera memory card            , technology
+EXP056    ,   8.50, Five Guys          , burger and fries              , food
+EXP057    ,  14.60, Bus Pass           , monthly transit card          , transport
+EXP058    ,  11.99, Peacock            , streaming subscription        , entertainment
+EXP059    , 123.67, Kohls              , home decor items              , shopping
+EXP060    ,  79.99, Logitech           , computer webcam               , technology
+EXP061    ,  12.75, Wendys             , chicken nugget meal           , food
+EXP062    ,  33.40, Marathon           , gasoline and snacks           , transport
+EXP063    ,  17.99, Prime Video        , movie purchase                , entertainment
+EXP064    ,  45.89, Target             , bathroom essentials           , shopping
+EXP065    , 259.99, ASUS               , laptop cooling pad            , technology
+EXP066    ,   9.95, Sonic              , breakfast burrito             , food
+EXP067    ,  21.30, Lyft               , ride to doctor appointment    , transport
+EXP068    ,  13.99, Discovery Plus     , documentary streaming         , entertainment
+EXP069    ,  67.34, Sephora            , cosmetics and skincare        , shopping
+EXP070    , 149.99, Razer              , gaming headset                , technology
+EXP071    ,  15.80, Chick fil A        , chicken sandwich meal         , food
+EXP072    ,  26.75, Valero             , gas and convenience items     , transport
+EXP073    ,   8.99, BritBox            , british tv subscription       , entertainment
+EXP074    , 189.45, Macys              , winter coat purchase          , shopping
+EXP075    ,  99.99, AMD                , computer processor            , technology
+EXP076    ,  11.60, Popeyes            , spicy chicken combo           , food
+EXP077    ,  17.90, taxi               , ride to train station         , transport
+EXP078    ,  14.99, Funimation         , anime subscription            , entertainment
+EXP079    ,  56.78, Bath Body Works    , personal care bundle          , shopping
+EXP080    , 179.99, Nintendo           , gaming accessories            , technology
+EXP081    ,  13.25, In N Out           , double burger meal            , food
+EXP082    ,  31.85, Shell              , premium fuel purchase         , transport
+EXP083    ,  10.99, ESPN Plus          , sports streaming              , entertainment
+EXP084    ,  78.90, Old Navy           , casual clothing               , shopping
+EXP085    , 249.99, NVIDIA             , graphics card fan             , technology
+EXP086    ,   8.75, Jack in the Box    , tacos and drink               , food
+EXP087    ,  24.50, Uber               , ride to concert venue         , transport
+EXP088    ,  16.99, Showtime           , premium cable subscription    , entertainment
+EXP089    , 134.56, Williams Sonoma    , kitchen appliances            , shopping
+EXP090    , 199.99, Intel              , computer motherboard          , technology
+EXP091    ,  12.40, Carl's Jr          , western bacon burger          , food
+EXP092    ,  28.70, Mobil              , gasoline and car care         , transport
+EXP093    ,   7.99, Acorn TV           , streaming subscription        , entertainment
+EXP094    ,  89.34, Victoria Secret    , clothing and perfume          , shopping
+EXP095    , 299.99, Corsair            , computer memory upgrade       , technology
+EXP096    ,  14.85, Arby's             , roast beef sandwich meal      , food
+EXP097    ,  19.25, Green Cab          , taxi to airport               , transport
+EXP098    ,  12.99, Shudder            , horror movie streaming        , entertainment
+EXP099    , 167.89, Best Buy           , home theater setup            , shopping
+EXP100    , 449.99, Apple              , tablet screen replacement     , technology
+EXP101    ,  10.50, Denny's            , breakfast pancakes            , food
+EXP102    ,  35.60, Citgo              , fuel and energy drinks        , transport
+EXP103    ,   8.99, Criterion Channel  , art film streaming            , entertainment
+EXP104    ,  78.45, Ulta Beauty        , makeup and tools              , shopping
+EXP105    , 129.99, Western Digital    , external hard drive           , technology
+EXP106    ,  13.70, White Castle       , slider combo meal             , food
+EXP107    ,  22.40, ride share         , trip to shopping center       , transport
+EXP108    ,  11.99, Hallmark Movies    , streaming service             , entertainment
+EXP109    , 234.67, Pottery Barn       , home furniture                , shopping
+EXP110    , 179.99, Bose               , noise canceling headphones    , technology
+EXP111    ,   9.85, Tim Hortons        , coffee and donuts             , food
+EXP112    ,  29.50, Phillips 66        , gasoline purchase             , transport
+EXP113    ,  15.99, Starz              , premium streaming             , entertainment
+EXP114    ,  67.89, Trader Joes        , organic groceries             , shopping
+EXP115    , 199.99, Roku               , streaming device              , technology
+EXP116    ,  12.25, Panda Express      , orange chicken bowl           , food
+EXP117    ,  18.75, bus fare           , daily commuter pass           , transport
+EXP118    ,   9.99, Tubi               , ad supported streaming        , entertainment
+EXP119    , 145.34, Anthropologie      , designer clothing             , shopping
+EXP120    ,  89.99, Seagate            , backup storage drive          , technology
+EXP121    ,  11.40, Qdoba              , burrito and guac              , food
+EXP122    ,  33.20, Speedway           , fuel and lottery tickets      , transport
+EXP123    ,  13.99, AMC Plus           , movie streaming service       , entertainment
+EXP124    ,  56.78, Saks Fifth Avenue  , luxury accessories            , shopping
+EXP125    , 249.99, LG                 , computer monitor              , technology
+EXP126    ,   8.95, Culvers            , butterburger meal             , food
+EXP127    ,  21.60, Uber               , ride to gym                   , transport
+EXP128    ,   7.99, Kanopy             , educational streaming         , entertainment
+EXP129    , 123.45, Nordstrom Rack     , discounted clothing           , shopping
+EXP130    , 399.99, Samsung            , tablet computer               , technology
+EXP131    ,  14.50, Noodles Company    , pasta bowl lunch              , food
+EXP132    ,  27.85, Wawa               , gas and convenience store     , transport
+EXP133    ,  10.99, Pure Flix          , family streaming              , entertainment
+EXP134    ,  89.67, Sur La Table       , cooking equipment             , shopping
+EXP135    , 159.99, Jabra              , wireless earbuds              , technology
+EXP136    ,  12.75, Shake Shack        , burger and shake              , food
+EXP137    ,  16.90, Yellow Taxi        , ride to meeting               , transport
+EXP138    ,  14.99, Vudu               , movie streaming service       , entertainment
+EXP139    , 178.34, REI                , outdoor gear                  , shopping
+EXP140    ,  99.99, Turtle Beach       , gaming headset                , technology
+EXP141    ,   9.60, Jimmy Johns        , sandwich delivery             , food
+EXP142    ,  31.45, Conoco             , premium gasoline              , transport
+EXP143    ,   8.99, Fandor             , independent film streaming    , entertainment
+EXP144    ,  67.89, Barnes Noble       , books and magazines           , shopping
+EXP145    , 199.99, Alienware          , gaming keyboard               , technology
+EXP146    ,  13.80, Blaze Pizza        , personal pizza                , food
+EXP147    ,  23.70, Lyft               , ride to restaurant            , transport
+EXP148    ,  11.99, Mubi               , arthouse cinema streaming     , entertainment
+EXP149    , 145.67, Whole Foods        , organic groceries             , shopping
+EXP150    , 279.99, Oculus             , VR gaming headset             , technology
+EXP151    ,  10.25, Raising Canes      , chicken finger combo          , food
+EXP152    ,  28.90, Flying J           , truck stop fuel               , transport
+EXP153    ,  16.99, Crackle            , movie streaming               , entertainment
+EXP154    ,  89.45, HomeGoods          , home decor items              , shopping
+EXP155    , 149.99, Garmin             , fitness tracker               , technology
+EXP156    ,  12.40, Bojangles          , chicken biscuit meal          , food
+EXP157    ,  19.80, Metro Bus          , weekly bus pass               , transport
+EXP158    ,   9.99, Pluto TV           , free streaming upgrade        , entertainment
+EXP159    , 234.56, Coach              , designer handbag              , shopping
+EXP160    , 199.99, Fitbit             , smartwatch upgrade            , technology
+EXP161    ,  11.70, El Pollo Loco      , grilled chicken bowl          , food
+EXP162    ,  34.60, Casey's            , fuel and hot food             , transport
+EXP163    ,  12.99, Hoopla             , library streaming service     , entertainment
+EXP164    ,  78.34, Ikea               , furniture and decor           , shopping
+EXP165    ,  89.99, Audio Technica     , studio headphones             , technology
+EXP166    ,   8.85, Whataburger        , breakfast taquito             , food
+EXP167    ,  22.50, taxi service       , ride to hotel                 , transport
+EXP168    ,  15.99, Roku Channel       , premium content               , entertainment
+EXP169    , 167.89, Lululemon          , athletic wear                 , shopping
+EXP170    , 299.99, ASUS               , gaming laptop cooler          , technology
+EXP171    ,  13.25, Zaxbys             , chicken sandwich meal         , food
+EXP172    ,  26.70, Pilot              , travel center fuel            , transport
+EXP173    ,   7.99, IMDb TV            , streaming subscription        , entertainment
+EXP174    ,  56.78, TJ Maxx            , discounted clothing           , shopping
+EXP175    , 179.99, SteelSeries        , gaming mouse                  , technology
+EXP176    ,   9.95, Hardees            , thick burger meal             , food
+EXP177    ,  18.40, ride hail          , trip to airport               , transport
+EXP178    ,  13.99, Filmstruck         , classic movie streaming       , entertainment
+EXP179    , 123.45, Anthropologie      , home accessories              , shopping
+EXP180    , 249.99, MSI                , computer graphics card        , technology
+EXP181    ,  12.60, Church's Chicken   , spicy chicken combo           , food
+EXP182    ,  30.85, Love's             , truck stop services           , transport
+EXP183    ,  10.99, Crunchyroll Premium, anime streaming               , entertainment
+EXP184    ,  89.67, West Elm           , modern furniture              , shopping
+EXP185    , 159.99, HyperX             , gaming accessories            , technology
+EXP186    ,  11.45, Long John Silvers  , fish and chips                , food
+EXP187    ,  24.30, Uber Pool          , shared ride service           , transport
+EXP188    ,   8.99, Xumo               , free streaming service        , entertainment
+EXP189    , 178.34, Crate Barrel       , kitchen essentials            , shopping
+EXP190    , 199.99, Razer              , mechanical keyboard           , technology
+EXP191    ,  14.75, Checkers           , burger and fries              , food
+EXP192    ,  27.60, Murphy USA         , discount fuel                 , transport
+EXP193    ,  16.99, Sling TV           , live streaming service        , entertainment
+EXP194    ,  67.89, DSW                , shoe warehouse shopping       , shopping
+EXP195    , 299.99, Corsair            , computer cooling system       , technology
+EXP196    ,  10.80, Krystal            , slider burger meal            , food
+EXP197    ,  21.90, Green Taxi         , eco friendly ride             , transport
+EXP198    ,  12.99, Philo              , cable tv streaming            , entertainment
+EXP199    , 145.67, Banana Republic    , professional clothing         , shopping
+EXP200    , 399.99, Apple              , wireless charging station     , technology

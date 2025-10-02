@@ -1,0 +1,9 @@
+python -m uvicorn app:app --reload --host 127.0.0.1 --port 8000
+
+to test this
+FastAPI’s automatic Swagger UI for testing APIs.
+
+
+http://127.0.0.1:8000/docs
+
+pip install fastapi uvicorn joblib scikit-learn
